@@ -53,4 +53,4 @@ The Multi-agent Financial Analysis system is designed to assist in the following
 - **Output**: A comprehensive risk analysis report detailing potential risks and mitigation recommendations.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE.txt).
